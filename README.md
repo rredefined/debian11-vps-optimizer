@@ -14,4 +14,4 @@ This script automates the optimization of your Debian 11 VPS for performance and
 ## Usage
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ma6z/debian11-vps-optimizer/main/vps-optimizer-debian11.sh)
+bash <(curl -s https://raw.githubusercontent.com/rrdefined/debian11-vps-optimizer/main/vps-optimizer-debian11.sh)
